@@ -1,4 +1,4 @@
-﻿,Filed,Declined,Referred,Percent of Cases Declined,Percent of Cases Filed,Felony Filed,Felony Declined,Felony Referred,Percent of Felony Cases Declined,Misdemeanor Filed,Misdemeanor Declined,Misdemeanor Referred,Percent of Misdemeanor Cases Declined,Percent of Cases Filed as Felonies,Percent of Cases Filed as Misdemeanors
-26-Jan,247,43,290,14.82758621,85.17241379,79,10,89,11.23595506,168,33,201,16.41791045,31.98380567,68.01619433
-26-Feb,206,38,244,15.57377049,84.42622951,55,6,61,9.836065574,151,32,183,17.4863388,26.69902913,73.30097087
-26-Mar,258,45,303,14.85148515,85.14851485,80,9,89,10.11235955,178,36,214,16.82242991,31.00775194,68.99224806
+﻿,Filed,Declined,Referred,Percent of Cases Declined,Percent of Cases Filed,Felony Cases Filed,Felony Cases Declined,Felony Cases Referred,Percent of Felony Cases Declined,Percent of Felony Cases Filed,Misdemeanor Cases Filed,Misdemeanor Cases Declined,Misdemeanor Cases Referred,Percent of Misdemeanor Cases Declined,Percent of Misdemeanor Cases Filed,Percent of Cases Filed as Felonies,Percent of Cases Filed as Misdemeanors,Person,Property,Drug,Traffic/Other,Percent Person,Percent Property,Percent Drug,Percent Traffic/Other
+26-Jan,246,44,290,15.17241379,84.82758621,82,10,92,10.86956522,89.13043478,164,34,198,17.17171717,82.82828283,33.33333333,66.66666667,43,43,33,127,17.4796748,17.4796748,13.41463415,51.62601626
+26-Feb,206,39,245,15.91836735,84.08163265,60,6,66,9.090909091,90.90909091,146,33,179,18.43575419,81.56424581,29.12621359,70.87378641,28,48,33,97,13.59223301,23.30097087,16.01941748,47.08737864
+26-Mar,258,44,302,14.56953642,85.43046358,83,9,92,9.782608696,90.2173913,175,35,210,16.66666667,83.33333333,32.17054264,67.82945736,36,48,40,134,13.95348837,18.60465116,15.50387597,51.9379845
